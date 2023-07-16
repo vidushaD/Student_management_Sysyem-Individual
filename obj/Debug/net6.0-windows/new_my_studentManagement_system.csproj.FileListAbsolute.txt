@@ -1,0 +1,90 @@
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.AssemblyReference.cache
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system_MarkupCompile.cache
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system_MarkupCompile.lref
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.exe
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.deps.json
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.runtimeconfig.json
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.dll
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.pdb
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\App.baml
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.g.resources
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.AssemblyInfoInputs.cache
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.AssemblyInfo.cs
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.CoreCompileInputs.cache
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.dll
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\refint\new_my_studentManagement_system.dll
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.pdb
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.genruntimeconfig.cache
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\ref\new_my_studentManagement_system.dll
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\Window1.g.cs
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\Window1.baml
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.CopyComplete
+D:\Visual studio\new_my_studentManagement_system\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Visual studio\new_my_studentManagement_system\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.exe
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.deps.json
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.runtimeconfig.json
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.pdb
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.AssemblyReference.cache
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\Window1.g.cs
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system_MarkupCompile.cache
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system_MarkupCompile.lref
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\App.baml
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\Window1.baml
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.g.resources
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.AssemblyInfoInputs.cache
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.AssemblyInfo.cs
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.CoreCompileInputs.cache
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.CopyComplete
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\refint\new_my_studentManagement_system.dll
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.pdb
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.genruntimeconfig.cache
+D:\Visual studio\own - Copy\new_my_studentManagement_system\obj\Debug\net6.0-windows\ref\new_my_studentManagement_system.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.exe
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.deps.json
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\new_my_studentManagement_system.pdb
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system_MarkupCompile.cache
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system_MarkupCompile.lref
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\App.baml
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.g.resources
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\refint\new_my_studentManagement_system.dll
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.pdb
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\new_my_studentManagement_system.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\EG_2020_3829\new_my_studentManagement_system\obj\Debug\net6.0-windows\ref\new_my_studentManagement_system.dll

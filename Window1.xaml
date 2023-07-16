@@ -1,0 +1,128 @@
+﻿<Window x:Class="new_my_studentManagement_system.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:new_my_studentManagement_system"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="ToolWindow"
+        >
+    <Grid>
+        <Grid Height="50" Width="800" VerticalAlignment="Top"   >
+            <Border 
+                        CornerRadius="0"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Height="432"
+                        Width="800">
+
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Color="#ff87ceeb" Offset="0"/>
+                        <GradientStop Color="#ffB0CADE" Offset="0.56"/>
+                        <GradientStop Color="Black" Offset="0.79"/>
+                    </LinearGradientBrush>
+
+
+                </Border.Background>
+            </Border>
+            <Label Content="ADD STUDENT" FontSize="20" FontWeight="Bold" Height="40" Width="150" Margin="325,1,325,9"/>
+
+
+        </Grid>
+
+        <Grid Background="White" Height="380" Width="289" VerticalAlignment="Bottom" HorizontalAlignment="Left">
+            <Button Command="{Binding saveCommand}" Content="Save" Style="{DynamicResource appbutton}" Background="Transparent" />
+            <Canvas>
+                <Rectangle Width="396" Height="527" Stroke="#cc00ff"
+                     StrokeThickness="2"
+                     Opacity="0.3" RenderTransformOrigin="0.5,0.5" Canvas.Left="-181" Canvas.Top="-394" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                    <Rectangle.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="41.241"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Rectangle.RenderTransform>
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="#cc00ff"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Canvas>
+
+            <Canvas>
+                <Rectangle Width="578" Height="362" Stroke="#cc00ff"
+                     StrokeThickness="2"
+                     Opacity="0.3" RenderTransformOrigin="0.5,0.5" Canvas.Left="-288" Canvas.Top="126" HorizontalAlignment="Left" VerticalAlignment="Top" >
+                    <Rectangle.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="41.241"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Rectangle.RenderTransform>
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="#cc00ff"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Canvas>
+
+        </Grid>
+        <Grid Background="WhiteSmoke" Height="377" Width="505" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,-2,4">
+
+            <Canvas>
+                <Rectangle Width="550" Height="416" Stroke="#cc00ff"
+                     StrokeThickness="2"
+                     Opacity="0.3" RenderTransformOrigin="0.5,0.5" Canvas.Left="289" Canvas.Top="-60" HorizontalAlignment="Center" VerticalAlignment="Top" >
+                    <Rectangle.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="41.241"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Rectangle.RenderTransform>
+                    <Rectangle.Fill>
+                        <SolidColorBrush Color="#cc00ff"/>
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Canvas>
+
+            <Label Content="first name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <TextBox Text="{Binding First_name, UpdateSourceTrigger=PropertyChanged}" ToolTip="Enter First Name" HorizontalAlignment="Left" Margin="96,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Background="Transparent" Width="390"/>
+
+            <Label Content="second name" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top"/>
+            <TextBox Text="{Binding Last_name, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="96,55,0,0" TextWrapping="Wrap" ToolTip="enter second name" VerticalAlignment="Top" Background="Transparent" Width="390"/>
+
+            <Label Content="birth day" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top"/>
+            <TextBox Text="{Binding B_day, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="96,93,0,0" TextWrapping="Wrap" ToolTip="YYYY/MM/DD" VerticalAlignment="Top" Background="Transparent" Width="241"/>
+
+            <Label Content="GPA" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top"/>
+            <TextBox Text="{Binding Gpa, UpdateSourceTrigger=PropertyChanged}"  HorizontalAlignment="Left" Margin="96,128,0,0" TextWrapping="Wrap" ToolTip="enter GPA (0-4)" VerticalAlignment="Top" Background="Transparent" Width="241"/>
+
+            <Button Command="{Binding upload_imageCommand}" Content="Add picture" Style="{DynamicResource appbutton}" Background="Transparent" Width="118" Margin="258,161,115,137" />
+            <Label Content="GPA" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top"/>
+
+
+
+            <Grid Background="White" HorizontalAlignment="Left" Height="140" Margin="96,159,0,0" VerticalAlignment="Top" Width="140">
+                <Image  HorizontalAlignment="Left" Height="140" Margin="-5,4,0,0" VerticalAlignment="Top" Width="140" Source="{Binding s_image,UpdateSourceTrigger=PropertyChanged}"/>
+            </Grid>
+            <ComboBox Height="29" Width="291" Margin="105,343,109,5">
+                <ComboBoxItem Content="male"/>
+                <ComboBoxItem Content="female"/>
+            </ComboBox>
+
+
+
+
+
+
+        </Grid>
+
+    </Grid>
+</Window>
